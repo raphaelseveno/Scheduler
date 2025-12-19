@@ -3,7 +3,7 @@
 # Le programme essaiera d'assigner votre premier choix, mais s'il y a un conflit,
 # il utilisera votre deuxième choix
 
-Mathématiques,10:00-12:00,
+Mathématiques,10:00-12:00, 8:00-10:00
 Physique,08:00-10:00,10:00-12:00
 Informatique,14:00-16:00,08:00-10:00
 Littérature Anglaise,10:00-12:00,08:00-10:00
