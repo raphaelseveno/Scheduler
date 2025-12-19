@@ -1,0 +1,15 @@
+========== VOTRE HORAIRE GÉNÉRÉ ==========
+
+Lundi:
+  Mathématiques                 10:00-12:00 [1er choix]
+  Chimie                         14:00-16:00 [1er choix]
+
+Mardi:
+  Physique                       08:00-10:00 [1er choix]
+  Informatique                   14:00-16:00 [1er choix]
+  Littérature Anglaise          10:00-12:00 [1er choix]
+
+Vendredi:
+  Histoire                       10:00-12:00 [2ème choix]
+
+=============================================

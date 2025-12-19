@@ -1,0 +1,29 @@
+# Cours disponibles
+# Format: NomDuCours, Jour, Heure
+# Jours: Lundi, Mardi, Mercredi, Jeudi, Vendredi
+# Heure: Utilisez le format 08:00-10:00
+
+Mathématiques,Lundi,08:00-10:00
+Mathématiques,Lundi,10:00-12:00
+Mathématiques,Mercredi,14:00-16:00
+Physique,Mardi,08:00-10:00
+Physique,Jeudi,10:00-12:00
+Physique,Vendredi,14:00-16:00
+Informatique,Lundi,10:00-12:00
+Informatique,Mardi,14:00-16:00
+Informatique,Mercredi,08:00-10:00
+Littérature Anglaise,Mardi,10:00-12:00
+Littérature Anglaise,Mercredi,10:00-12:00
+Littérature Anglaise,Vendredi,08:00-10:00
+Chimie,Lundi,14:00-16:00
+Chimie,Mercredi,10:00-12:00
+Chimie,Jeudi,08:00-10:00
+Histoire,Mardi,14:00-16:00
+Histoire,Jeudi,14:00-16:00
+Histoire,Vendredi,10:00-12:00
+Biologie,Lundi,08:00-10:00
+Biologie,Mercredi,14:00-16:00
+Biologie,Vendredi,10:00-12:00
+Arts Plastiques,Mardi,10:00-12:00
+Arts Plastiques,Mercredi,14:00-16:00
+Arts Plastiques,Vendredi,14:00-16:00
